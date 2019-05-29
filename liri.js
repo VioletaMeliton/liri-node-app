@@ -45,7 +45,6 @@ function getConcert(artist) {
     );
 
     var printConcert =
-      "======Begin Concert Log Entry======" +
       "\nName of the musician: " +
       artist +
       "\nName of the venue: " +
@@ -54,7 +53,6 @@ function getConcert(artist) {
       response.data[0].venue.city +
       "\n Date of event: " +
       moment(response.data[0].datetime).format("MM-DD-YYYY") +
-      "\n======End Concert Log Entry======" +
       "\n";
 
     fs.appendFile("log.txt", printConcert, function(err) {
@@ -84,7 +82,6 @@ function getSong(song) {
 
     // Append text into log.txt file
     var printSong =
-      "======Begin Spotify Log Entry======" +
       "\nArtist: " +
       data.tracks.items[0].album.artists[0].name +
       "\nSong Name: " +
@@ -93,7 +90,6 @@ function getSong(song) {
       data.tracks.items[0].href +
       "\nAlbum Name: " +
       data.tracks.items[0].album.name +
-      "\n======End Spotify Log Entry======" +
       "\n";
 
     fs.appendFile("log.txt", printSong, function(err) {
