@@ -12,4 +12,4 @@ When running this app in command line, you will use the following commands:
  
 > $ node liri.js do-what-it-says 
 
-![spotify-this](C:\Users\Priscilla\liri-node-app/spotify.jpg)
+
