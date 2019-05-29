@@ -1,0 +1,18 @@
+======Begin Spotify Log Entry======
+Artist: Ariana Grande
+Song Name: thank u, next
+ Preview Link: https://api.spotify.com/v1/tracks/3e9HZxeyfWwjeyPAMmWSSQ
+Album Name: thank u, next
+======End Spotify Log Entry======
+======Begin Spotify Log Entry======
+Artist: Ariana Grande
+Song Name: thank u, next
+ Preview Link: https://api.spotify.com/v1/tracks/3e9HZxeyfWwjeyPAMmWSSQ
+Album Name: thank u, next
+======End Spotify Log Entry======
+======Begin Spotify Log Entry======
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+ Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album Name: The Hits--Chapter One
+======End Spotify Log Entry======
