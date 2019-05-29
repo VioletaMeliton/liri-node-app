@@ -5,7 +5,10 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 When running this app in command line, you will use the following commands:
  
 > $ node liri.js concert-this <artist/band name here>
+
 > $ node liri.js movie-this <movie name here>
+ 
 > $ node liri.js spotify-this-song <song here>
+ 
 > $ node liri.js do-what-it-says 
 
