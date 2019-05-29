@@ -16,3 +16,31 @@ Song Name: I Want It That Way
  Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
 Album Name: The Hits--Chapter One
 ======End Spotify Log Entry======
+======Begin Spotify Log Entry======
+Artist: Sam Smith
+Song Name: Dancing With A Stranger (with Normani)
+ Preview Link: https://api.spotify.com/v1/tracks/6Qs4SXO9dwPj5GKvVOv8Ki
+Album Name: Dancing With A Stranger (with Normani)
+======End Spotify Log Entry======
+======Begin Movie Log Entry======
+Movie title: Cinderella
+Year released: 2015
+IMDB rating: 6.9
+Rotten Tomatoes rating: 84%
+Country where produced: USA, UK
+Language: English
+Plot: When her father unexpectedly dies, young Ella finds herself at the mercy of her cruel stepmother and her scheming stepsisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+======End Movie Log Entry======
+======Begin Concert Log Entry======
+Name of the musician: madonna
+Name of the venue: BAM (Brooklyn Academy of Music)
+Venue location: Brooklyn
+ Date of event: 09-12-2019
+======End Concert Log Entry======
+======Begin Spotify Log Entry======
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+ Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album Name: The Hits--Chapter One
+======End Spotify Log Entry======

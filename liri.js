@@ -25,7 +25,7 @@ switch (process.argv[2]) {
     break;
 
   default:
-    console.log("Unknown Command. Please try again.".underline.red);
+    console.log("Unknown Command. Please try again.");
 }
 
 function getConcert(artist) {
@@ -126,7 +126,6 @@ function getMovie(movie) {
 
     //logResults(response);
     var printMovie =
-      "======Begin Movie Log Entry======" +
       "\nMovie title: " +
       response.data.Title +
       "\nYear released: " +
@@ -143,7 +142,6 @@ function getMovie(movie) {
       response.data.Plot +
       "\nActors: " +
       response.data.Actors +
-      "\n======End Movie Log Entry======" +
       "\n";
 
     fs.appendFile("log.txt", printMovie, function(err) {
@@ -166,7 +164,7 @@ function getRandom() {
       } else if (commands[0] === "spotify-this-song") {
         getSong(commands[1].replace(/^'(.*)"$/, "$1"));
       } else {
-        console.log("Unknown Command. Please try again.".underline.red);
+        console.log("Unknown Command. Please try again.");
       }
     }
   });
