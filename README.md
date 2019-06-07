@@ -15,3 +15,5 @@ When running this app in command line, you will use the following commands:
 
 ![Screenshot](pic.jpg)
 
+![Screenshot](movie.jpg)
+
