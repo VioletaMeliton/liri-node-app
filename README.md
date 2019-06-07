@@ -17,3 +17,5 @@ When running this app in command line, you will use the following commands:
 
 ![Screenshot](movie.jpg)
 
+![Screenshot](spotify.jpg)
+
